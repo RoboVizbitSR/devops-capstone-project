@@ -4,4 +4,4 @@
 devops-capstone-project
 
 ---
-brief description of the capstone project: suck
+brief description of the capstone project: sucksas
